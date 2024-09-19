@@ -5,5 +5,4 @@
 
 
 ## Samples from the report
-![Superstore_dashboard](https://github.com/user-attachments/assets/f91157bb-cb0c-4d81-ac85-d47d0aa0c8c7)
-
+![SuperstoreDashboard](https://github.com/user-attachments/assets/140ec91f-8639-4bfc-a22d-300f5a04fbae)
